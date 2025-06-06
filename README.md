@@ -1,4 +1,4 @@
-# 🧼 DATA-SCIENCE
+# 🧼 DATA PIPELINE DEVELOPMENT
 
 This project implements a clean and efficient ETL (Extract, Transform, Load) pipeline using **Pandas** and **scikit-learn** to automate the data cleaning and preparation process.
 
