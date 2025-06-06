@@ -1,4 +1,4 @@
-# 🧼 ETL Pipeline: Data Preprocessing, Transformation, and Loading
+# 🧼 DATA-SCIENCE
 
 This project implements a clean and efficient ETL (Extract, Transform, Load) pipeline using **Pandas** and **scikit-learn** to automate the data cleaning and preparation process.
 
